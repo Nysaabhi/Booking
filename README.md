@@ -98,7 +98,7 @@
       };
 
       try {
-        const response = await fetch('<https://script.google.com/macros/s/AKfycbzzNrSP1rNL5XiYI--HgOmtf-66iv8npCHR4mJiXlmdAxK6TnQIFBU6E_FncZaog3-5/exec>', {
+        const response = await fetch('https://script.google.com/macros/s/AKfycbxFUeX4vydcNG9ccPeWeh0zl6zvo91Sfk4a5RHAvRP_SQGzttoEkWn6jkzhJ-Pekkj9/exec', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
